@@ -1,5 +1,5 @@
 # svs
-Scientific Visualization Studio
+NASA's Scientific Visualization Studio
 
 [NASA's Scientific Visualization Studio](http://svs.gsfc.nasa.gov) The Scientific Visualization Studio works closely with scientists 
 in the creation of visualizations, animations,
